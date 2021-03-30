@@ -1,0 +1,8 @@
+{
+    "port": 3000,
+    "environment": "local",
+    "sessionSecret": "somerandomshit",
+    "freeApiAllowed": 500,
+    "mongodbURL": "mongodb://localhost:27017/ismailvalid",
+    "siteDomain": "http://localhost:3000"
+}

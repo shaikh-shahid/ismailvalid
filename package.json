@@ -1,0 +1,35 @@
+{
+  "name": "ismailvalid",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "@hapi/joi": "^17.1.1",
+    "bcrypt": "^5.0.0",
+    "body-parser": "^1.19.0",
+    "bull": "^3.20.0",
+    "chalk": "^4.1.0",
+    "connect-redis": "^5.0.0",
+    "cors": "^2.8.5",
+    "crypto": "^1.0.1",
+    "deep-email-validator": "^0.1.18",
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "express-rate-limit": "^5.2.3",
+    "express-session": "^1.17.1",
+    "geoip-lite": "^1.4.2",
+    "helmet": "^4.3.1",
+    "mongodb": "^3.6.3",
+    "nconf": "^0.11.0",
+    "nodemailer": "^6.4.17",
+    "redis": "^3.0.2",
+    "uuidv4": "^6.2.6",
+    "winston": "^3.3.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
